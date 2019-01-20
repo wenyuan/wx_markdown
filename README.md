@@ -4,7 +4,7 @@
 
 ### A online markdown converter specially for Wechat Public formatting.
 
-- Online Address: <http://md.wenyuanblog.com/>
+- Online Address: <http://wxmd.wenyuanblog.com/>
 - Source Code: <https://https://github.com/barretlee/online-markdown.git>
 
 ### Changelog
