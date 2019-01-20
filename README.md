@@ -1,15 +1,13 @@
 # WX Markdown Converter
 
-> Forked from 小胡子哥
+> Forked from 颜家大少 
 
 ### A online markdown converter specially for Wechat Public formatting.
 
 - Online Address: <http://wxmd.wenyuanblog.com/>
-- Source Code: <https://https://github.com/barretlee/online-markdown.git>
+- Original Online Address: <http://md.aclickall.com/>
+- Source Code: <https://github.com/aclickall/aclickall.github.io.git>
 
-### Changelog
+### A very useful online tool, fork it to prevent the original site from crashing.
 
-- 支持更换代码样式主题
-- 代码长度溢出时横向滚动
-
-Thanks for 小胡子哥.
+### Thanks for 颜家大少.
